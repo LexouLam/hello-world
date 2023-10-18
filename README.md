@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It's a modification of the file from Git.
 
 Encore une nouvelle modificaiton pour tester "pull".
+
+Et encore une nouvelle ligne.
